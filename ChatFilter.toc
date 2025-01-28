@@ -1,0 +1,7 @@
+## Interface: 11404
+## Title: ChatFilter Addon
+## Notes: Monitors chat for specific words
+## Author: JAirbourne
+## SavedVariables: ChatFilterDB
+
+ChatFilter.lua
